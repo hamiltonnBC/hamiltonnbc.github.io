@@ -7,7 +7,7 @@ permalink: /resume/
 
 ## Education
 
-- B.AS. in Computer Science, Berea College, Expected Graduation: 2026
+- B.A. in Computer Science, Berea College, Expected Graduation: 2026
 
 ## Skills
 
