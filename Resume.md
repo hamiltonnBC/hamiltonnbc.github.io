@@ -11,8 +11,8 @@ permalink: /resume/
 
 ## Skills
 
-- Programming Languages: Python, C++, C#, SQL
-- Tools & Technologies: Git, Linux
+- Programming Languages: Python, C++, C#, SQL, HTML
+- Tools & Technologies: Git, Matplotlib, Jekyll
 
 
 
