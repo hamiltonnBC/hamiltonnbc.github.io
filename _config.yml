@@ -22,16 +22,14 @@ title: Nicholas Trey Hamilton
 email: hamiltonn428@gmail.com | hamiltonn@berea.edu
 # school email: hamiltonn@berea.edu
 description: >-
-  Computer Science major and Sociology Minor at Berea College.
+                        Computer Science major and Sociology minor.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# linkedin: www.linkedin.com/in/nicholas-trey-hamilton
 
-# Social media
-social_links:
-  github: https://github.com/hamiltonnBC
-  linkedin: www.linkedin.com/in/nicholas-trey-hamilton
-  
+github_username: https://github.com/hamiltonnBC
+linkedin_username: https://www.linkedin.com/in/nicholas-trey-hamilton
+
+
 # Build settings
 theme: minima
 plugins:
